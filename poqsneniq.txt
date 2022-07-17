@@ -1,0 +1,12 @@
+zad1.
+syzdavame Day02zad1.2.c v koito izpylnqvame sravnenieto
+posle syzdavame file numbers.txt i startirame programata s koda v terminala
+Day02zad1.2.c -o run i ./run<numbers.txt
+
+zad2.
+syzdavame Day02zad2.c v koito izpylnqvame sravnenieto
+izpolzvame file numbers.txt i startirame programata s koda v terminala
+Day02zad2.c -o run i ./run<numbers.txt
+
+zad3.
+sortiraneto stava s numbers.txt -n -o numbers.txt | head -n 1 numbers.txt | tail -n 1 numbers.txt
